@@ -161,7 +161,9 @@ nav {
 }
 
 .logo-image {
-    height: 50px;
+    height: 60px; /* Increased height for better visibility */
+    max-width: 150px; /* Set a max width to prevent stretching */
+    width: auto; /* Maintain aspect ratio */
     margin-right: 10px;
 }
 

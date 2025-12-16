@@ -44,7 +44,7 @@ const chairmanFullMessage = `
 
 <p>Welcome to TAWASOL. Welcome to the future.</p>
 
-<p><strong>Dr. Ahmed Hassan Al-Mansouri</strong><br>
+<p><strong>Dr. Mohamed Hassan Amin</strong><br>
 <em>Chairman, TAWASOL Life Science Park</em><br>
 <em>Director, Institute for Advanced Consciousness Studies</em><br>
 <em>Former Director, International Quantum Biology Consortium</em></p>

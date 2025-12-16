@@ -190,7 +190,7 @@ function loadChairmanMessage() {
         
         <p>With unwavering commitment to excellence,</p>
         
-        <p><strong>Dr. Ahmed Hassan Al-Mansouri</strong><br>
+        <p><strong>Dr. Mohamed Hassan Amin</strong><br>
         Chairman, TAWASOL Life Science Technology Park</p>
     `;
     
