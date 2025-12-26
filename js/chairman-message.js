@@ -44,12 +44,9 @@ const chairmanFullMessage = `
 
 <p>Welcome to TAWASOL. Welcome to the future.</p>
 
-<p><strong>Dr. Mohamed Hassan Amin</strong><br>
-<em>Chairman, TAWASOL Life Science Park</em><br>
-<em>Director, Institute for Advanced Consciousness Studies</em><br>
-<em>Former Director, International Quantum Biology Consortium</em></p>
+<p><strong>Dr. Mohamed Hassan Amin</strong><br>Chairman</p>
 
-<p><em>"Where consciousness meets quantum reality, the impossible becomes inevitable."</em></p>
+
 `;
 
 // Function to load chairman's message into modal
